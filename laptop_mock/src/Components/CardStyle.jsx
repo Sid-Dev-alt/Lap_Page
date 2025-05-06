@@ -11,7 +11,7 @@ const CardStyle = ({laptop}) => {
         >   
         <div className='card card-center h-100'>
             <div className='card-body text-center mt-6'>
-                <img src={laptop.thumbnail || "https://via.placeholder.com/150" } 
+                <img src={laptop.thumbnail || "https://via.placeholder.com/200" } 
                 alt = {laptop.title}
                 className="card-img-top"
                 style={{ height: "275px",objectFit: "cover"}}
