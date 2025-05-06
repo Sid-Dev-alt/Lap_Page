@@ -365,12 +365,12 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/u/h/s/-original-imagpxgqj6x2zkhe.jpeg?q=70"
+      "thumbnail": "https://m.media-amazon.com/images/I/717RmdIf0SL._SY450_.jpg"
     },
 
      {
       "id": 84,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "Lenovo IdeaPad Slim 3 Core i5 13420H",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -427,12 +427,12 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/81Y0y+GFEDL._SX679_.jpg"
     },
     
      {
       "id": 85,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "HP Victus Gaming, AMD Ryzen 5 5600H, NVIDIA RTX 3050",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -489,11 +489,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/71vIC1U5lTL._SX679_.jpg"
     },
      {
       "id": 86,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "ASUS TUF Gaming A15",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -550,11 +550,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/61xBASwU+zL._SX679_.jpg"
     },
      {
       "id": 87,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "HP Omen 16",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -611,11 +611,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/715WLPCIrIL._SX679_.jpg"
     },
      {
       "id": 88,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "ASUS ROG STRIX G16",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -672,11 +672,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/71WChkpECLL._SX679_.jpg"
     },
      {
       "id": 89,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "ASUS Vivobook 16",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -733,11 +733,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/714zVJcMt5L._SX679_.jpg"
     },
      {
       "id": 90,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "HP OmniBook 5",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -794,11 +794,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/71SoAuR2iDL._SX679_.jpg"
     },
      {
       "id": 91,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "Apple 2025 MacBook Air",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -855,11 +855,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/711NKCLZfaL._SX679_.jpg"
     },
      {
       "id": 92,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "Macbook Pro 2024",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -916,11 +916,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/61eA9PkZ07L._SX679_.jpg"
     },
      {
       "id": 93,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "Lenovo ThinkPad E14",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -977,11 +977,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/617Af4lsBNL._SX679_.jpg"
     },
      {
       "id": 94,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "Microsoft New Surface Laptop (7th Edition)",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -1038,11 +1038,11 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/511VIcTtCXL._SY450_.jpg"
     },
      {
       "id": 95,
-      "title": "New DELL XPS 13 9300 Laptop",
+      "title": "Acer Predator Helios Neo 16",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -1099,7 +1099,7 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+      "thumbnail": "https://m.media-amazon.com/images/I/61cEq+fQcxL._SX679_.jpg"
     }
   ]
  
