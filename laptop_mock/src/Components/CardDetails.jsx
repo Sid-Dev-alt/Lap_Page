@@ -1,11 +1,25 @@
 import React,{useState, useEffect} from 'react'
 import { Link, useLocation, useParams } from 'react-router-dom';
+import {useDispatch, useSelector} from 'react-redux';
+import { addToCart, removeFromCart } from '../cartSlice';
 
 const CardDetails = () => {
 
     const {state} = useLocation()
     const [laptop, setLaptop] = useState(state?.laptop || null);
     
+    const dispatch = useDispatch();
+     const cartItems = useSelector((state) => state.cart);
+     const isIncart = cartItems.some((item) => item.id === laptop.id);
+   
+     const handleCartClick = (e) => {
+       e.preventDefault(); //Prevent Navigation if button is clicked
+       if(isIncart){
+         dispatch(removeFromCart(laptop.id))
+       } else{
+         dispatch(addToCart(laptop))
+       }
+     }
    
    
    useEffect(()=>{
@@ -45,7 +59,9 @@ const CardDetails = () => {
                     <p> <strong>Availablity:</strong>  {laptop.availabilityStatus}</p>
 
                      <p className='card-text'><strong>Rating:</strong> {laptop.rating ?? 'N/A'}</p>
-                    {/* <button className='btn btn-success mt-3' onClick={()=>addToCart(recipe)}>Add to Cart</button> */}
+                    <div className='text-center mb-3'>
+          <button className={`btn ${isIncart ? 'btn-danger': 'btn-success'} mt-2`} onClick={handleCartClick}>{isIncart ? 'Remove from Cart' : 'Add to Cart'}</button>
+        </div>
                 </div>
             </div>
     </div>

@@ -1,7 +1,9 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
+import {useSelector} from 'react-redux'
 
 const Navbar = () => {
+    const cartItems = useSelector((state) => state.cart)
     const [isCollapsed, setIsCollapsed] = useState(true);
 
     const toggleNavbar = () => setIsCollapsed(!isCollapsed);
@@ -27,6 +29,9 @@ const Navbar = () => {
         <li className='nav-item'>
         <Link to="/about" className='nav-link'>About
         </Link>
+        </li>
+        <li>
+        <Link to="/cart" className='nav-link'>Cart ({cartItems.length})</Link>
         </li>
         </ul>
         </div>

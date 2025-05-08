@@ -7,6 +7,7 @@ import CardDetails from './Components/CardDetails';
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Navbar from './Components/Navbar'
 import About from './Components/About'
+import CartPage from './Components/CartPage'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -15,9 +16,10 @@ function App() {
     <BrowserRouter>
     <Navbar />
     <Routes>
-     <Route  index element={<CardList />}/>
+     <Route index element={<CardList />}/>
       <Route path='/details' element = {<CardDetails />}/>
       <Route path='/about' element={<About />}/>
+      <Route path='/cart' element={<CartPage />}/>
      </Routes>
     </BrowserRouter>
   )

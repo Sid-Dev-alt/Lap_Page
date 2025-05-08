@@ -380,7 +380,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Lenovo",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -442,7 +442,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "HP",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -503,7 +503,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Asus",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -564,7 +564,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "HP",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -615,7 +615,7 @@ let laptopData =
     },
      {
       "id": 88,
-      "title": "ASUS ROG STRIX G16",
+      "title": "Asus ROG STRIX G16",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -625,7 +625,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Asus",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -686,7 +686,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Asus",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -747,7 +747,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "HP",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -808,7 +808,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Apple",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -859,7 +859,7 @@ let laptopData =
     },
      {
       "id": 92,
-      "title": "Macbook Pro 2024",
+      "title": "Apple Macbook Pro 2024",
       "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
       "category": "laptops",
       "price": 1499.99,
@@ -869,7 +869,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Apple",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -930,7 +930,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Lenovo",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -991,7 +991,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Microsoft",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -1052,7 +1052,7 @@ let laptopData =
       "tags": [
         "laptops"
       ],
-      "brand": "Dell",
+      "brand": "Acer",
       "sku": "LAP-DEL-DEL-082",
       "weight": 2,
       "dimensions": {
@@ -1100,8 +1100,929 @@ let laptopData =
         "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
       ],
       "thumbnail": "https://m.media-amazon.com/images/I/61cEq+fQcxL._SX679_.jpg"
+    },
+    {
+      "id": 96,
+      "title": "Dell XPS 13 9350",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Dell",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61B1lT6YoyL._SX679_.jpg"
+    },
+    {
+      "id": 97,
+      "title": "Dell Vostro 15",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Dell",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61mIyqErSnL._SX679_.jpg"
+    },
+    {
+      "id": 98,
+      "title": "Apple 2024 Mac Mini Desktop Computer",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Apple",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61hpKVB9X2L._SX679_.jpg"
+    },
+    {
+      "id": 99,
+      "title": "Apple 2024 iMac",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Apple",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/715OqdQG2LL._SX679_.jpg"
+    },
+    {
+      "id": 100,
+      "title": "Dell Alienware x16",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Dell",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/51PLKwik5fL._SX679_.jpg"
+    },
+    
+    {
+      "id": 102,
+      "title": "Lenovo Legion 9 2024",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Lenovo",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61bGgo8JNYL._SX679_.jpg"
+    },
+    {
+      "id": 103,
+      "title": "Lenovo Smartchoice LOQ",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Lenovo",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/61Ol4v72-NL._SY450_.jpg"
+    },
+    {
+      "id": 104,
+      "title": "HP Envy x360",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "HP",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/610c3kNrqvL._SX679_.jpg"
+    },
+    {
+      "id": 105,
+      "title": "HP 14",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "HP",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/71Nr4tShuHL._SY450_.jpg"
+    },
+    {
+      "id": 106,
+      "title": "Dell G15",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Dell",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "	https://m.media-amazon.com/images/I/71FJAKQJ0JL._SX679_.jpg"
+    },
+    {
+      "id": 107,
+      "title": "Microsoft New Surface Pro",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Microsoft",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/51gCpv7DO4L._SX679_.jpg"
+    },
+    {
+      "id": 108,
+      "title": "Acer NITRO V",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Acer",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "	https://m.media-amazon.com/images/I/51ViDFxb0ZL._SX679_.jpg"
+    },
+    {
+      "id": 109,
+      "title": "Acer ALG",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Acer",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/81sAOthl+7L._SX679_.jpg"
+    },
+    {
+      "id": 110,
+      "title": "Acer Aspire Lite",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Acer",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/71o7b6YJMfL._SX679_.jpg"
+    },
+    {
+      "id": 111,
+      "title": "Acer Aspire 3",
+      "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+      "category": "laptops",
+      "price": 1499.99,
+      "discountPercentage": 11.89,
+      "rating": 2.67,
+      "stock": 74,
+      "tags": [
+        "laptops"
+      ],
+      "brand": "Acer",
+      "sku": "LAP-DEL-DEL-082",
+      "weight": 2,
+      "dimensions": {
+        "width": 13.76,
+        "height": 29,
+        "depth": 21.42
+      },
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 2 weeks",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Poor quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Charlotte Lopez",
+          "reviewerEmail": "charlotte.lopez@x.dummyjson.com"
+        },
+        {
+          "rating": 4,
+          "comment": "Very satisfied!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Alice Smith",
+          "reviewerEmail": "alice.smith@x.dummyjson.com"
+        },
+        {
+          "rating": 2,
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ava Taylor",
+          "reviewerEmail": "ava.taylor@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "60 days return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "5963805976904",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/1.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/2.webp",
+        "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/3.webp"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/71TpwcAN1PL._SX679_.jpg"
     }
+
+    
+
+
+
   ]
- 
+  
 
 export default laptopData
