@@ -1,6 +1,7 @@
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import {useSelector} from 'react-redux'
+import Favourites from '../Features/Favourites'
 
 const Navbar = () => {
     const cartItems = useSelector((state) => state.cart)
@@ -33,7 +34,14 @@ const Navbar = () => {
         <li>
         <Link to="/cart" className='nav-link'>Cart ({cartItems.length})</Link>
         </li>
+        <li className='nav-item'>
+          <Link to="/favourites" className='nav-link'>Favourites</Link>
+        </li>
+        <li>
+          <Link to="/wishlist" className='nav-link'>Wishlist </Link>
+        </li>
         </ul>
+     
         </div>
     </nav>
   )

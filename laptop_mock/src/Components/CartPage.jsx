@@ -6,9 +6,12 @@ const Cart = () => {
   const cartItems = useSelector((state) => state.cart)
   const dispatch = useDispatch()
 
+  const totalPrice = cartItems.reduce((total, item) => total + item.price, 0)
+
   if (cartItems.length === 0) {
     return <h3 className="text-center mt-5">Your cart is empty</h3>
   }
+
 
   return (
     <div className="container mt-5">
@@ -36,6 +39,9 @@ const Cart = () => {
             </div>
           </div>
         ))}
+      </div>
+      <div className='text-center mt-1'>
+        <h4>Total Price: ${totalPrice.toFixed(2)}</h4>
       </div>
     </div>
   )
